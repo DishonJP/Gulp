@@ -1,0 +1,8 @@
+body {
+  color: slategrey;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif; }
+  body img {
+    height: 100vh;
+    width: 100vw; }
